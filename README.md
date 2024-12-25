@@ -2,7 +2,7 @@
 
 <div align="center">
   <h2>A Robust Solution for Efficient Attendance Management</h2>
-  <a href="http://www.AttendanceManagement.somee.com" target="_blank">
+  <a href="http://www.attendancemanagementsystem.somee.com/" target="_blank">
     <img src="https://img.shields.io/badge/Live%20Demo-Online-brightgreen?style=flat-square" alt="Live Demo">
   </a>
 </div>
