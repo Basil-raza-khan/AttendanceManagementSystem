@@ -44,7 +44,7 @@ The Attendance Management System simplifies managing attendance for students and
 ---
 
 ## **Deployment**
-- **Live Application:** <a href="http://www.AttendanceManagement.somee.com" target="_blank">Attendance Management System</a>
+- **Live Application:** <a href="http://www.attendancemanagementsystem.somee.com/" target="_blank">Attendance Management System</a>
 
 ---
 
